@@ -1,0 +1,1212 @@
+Registered No. M-302
+L.7646
+
+     
+
+EXTRAORDINAY
+PUBLISHED BY AUTHORITY
+
+ 
+
+ISLAMABAD, THURSDAY, JULY 12, 2007
+
+ 
+
+ 
+
+PART II
+Statutory Notifications (S.R.O.)
+GOVERNMENT OF PAKISTAN
+PAKISTAN TELECOMMUNICATION AUTHORITY
+NOTIFICATION
+Islamabad, the 11" July, 2007
+
+S.R.0.692(1)/2007.-In exercise of the powers conferred under clause (0) of sub-section (2)
+of Section 5 of the Pakistan Telecommunication (Reorganization) Act, 1996 (Act XVII of 1996)
+Pakistan Telecommunication Authority is pleased to make the following Regulations:
+
+PART-I
+PRELIMINARY
+
+1. Short Title and Commencement.— (1) [These Regulations shall be called as "Class
+Licensing and Registration Regulation 2007"!.
+
+(2) They shall come into force at once.
+2. Definitions. — (1) In these Regulations unless there is anything repugnant in the
+
+subject or context, —
+
+! Substituted vide page 121 of S.R.O 56()/2008 dated 16" January, 2008 [(i) These regulations shall be called as "Class Vahte Added Services
+Licensing and Registration Regulations, 2007"] :
+(
+
+(g)
+
+(h)
+
+"Act” means the Pakistan Telecommunication (Re-organization) Act, 1996 (XVII
+of 1996);
+
+"Applicant" means any defined class of persons, which applies for a license to
+provide Class Value Added Service or Registered Service under these
+Regulations;
+
+s
+>
+
+["Access Provider" means Local loop Licensee and Mobile Cellular Licensee"|
+
+[‘“(ca) Backhaul” means a portion of the network that comprises of intermediate
+links between the content source and a distribution point in small sub networks;"|°
+
+["Broadband" means always on Internet connection with a download speed of at
+least 128 kbps connectivity"|4
+
+"Call center" means a centralized telecommunication terminating or originating
+office established by a licensee to provide care services for its customers;
+
+"Class License or Class Registration" means any License or Registration Certificate
+issued under these Regulations for a class of telecommunication services;
+
+"Data Service" means a telecommunication service that involves electronic transfer
+of non-voice content;
+[“(ga) "dBi" means decibel isotropic.
+b) "dBm" means decibel milliwatt.
+
+&
+
+(gc) "EIRP" means Effective Isotropic Radiated Power.
+
+(gd) "Fixed network operator" means Local Loop (Fixed ,Wireless) and Long
+Distance International licensee of PTA"’]*
+
+"Interconnection" shall have the same meaning as assigned in Pakistan
+Telecommunication Rules 2000;
+
+["(ha) "Indoor" means a single set of premises in single occupation within a
+single unbroken boundary or a vehicle, vessel, aircraft or hovercraft.
+
+(hb) "ISM" means Industrial Scientific and Medical"]°
+
+2Reworded vide page 121 of S.R.O 56(L)/2008 dated 16" January, 2008 [(c) Access Providers means LDI, LL and Mobile Licensee]
+3 Inserted vide page 1045 of S.R.O 287(1)/2016 dated 4" April, 2016
+
++ Reworded vide page 122 of S.R.O 56(1)/2008 dated 16" January, 2008 [(d) Broadband means a communication channel
+having speed of 128 kilobit per second or more, capable of carrying a large portion of electromagnetic spectrum and high volumes of data
+
+traffic]
+
+5 Inserted vide page 1046 of S.R.O 287(l)/2016 dated 4 April, 2016
+
+8 Inserted vide page 1046 of S.R.O 287(I)/2016 dated 4" April, 2016
+(i) ["License" means for the purpose of these regulations an authorization granted by
+the Authority for the provision of any Class of services, or Registration certificate
+issued by the Authority for the provision of registered services shall be deemed to
+be a license for the purpose of section 20(1) of the Act");
+
+@) "Licensee" means holder of License issued under these Regulations;
+
+(k) "Local Loop (LL) Licensee" means a person licensed under the Act to establish,
+maintain and operate a public fixed switched network for the provision of local
+exchange telecommunication service, and includes Pakistan Telecommunication
+Company Limited, National Telecommunication Corporation and_ licensee
+providing service using Wireless in Local Loop;
+
+() "Long Distance and International ( LDI) Licensee" means a person licensed under
+the Act to establish, maintain and operate a public fixed switched network for the
+provision of nation-wide long distance and international telephony service and
+includes Pakistan Telecommunication Company Limited and National
+Telecommunication Corporation;
+
+(m) "Mobile Cellular Licensee" means a person licensed under the Act to establish,
+maintain and operate a public mobile switched network to provide wireless-based
+telecommunication service where the terminal equipment may be connected to
+the telecommunication system by wireless means and used while in motion, but
+excluding a person that is licensed to provide service using Wireless in Local
+Loop;
+
+[“(ma) " Node” means a connection point, either a redistribution point or an end
+point or both for data transmission.
+
+"(mb) " Non-Interference Basis (NIB)" means a condition of use relative to
+other specified uses that affords no protection from harmful interference from the
+other specified users, and prohibits causing harmful interference to the other
+
+specified users"]*
+
+(n) "Person" includes both natural and juristic persons;
+
+(o) "Registered Services" means those telecommunication services which do not
+require scarce resource;
+
+(p) "Regulation" means these Regulations;
+
+” Substituted vide page 122 of S.R.O 56()/2008 dated 16" January., 2008 [(i) License for the purposes of these Regulations; means an
+authorization granted by: the Authority for the provision of anv class of Value Added or Registered Service, Registration Certificate issued by the
+Authority for the Registered Services shall be deemed to be a license for the purpose of Section 20(L) of the Act;]
+
+8 Inserted vide page 1046 of S.R.O 287(l)/2016 dated 4" April, 2016
+(q) "SMP operator" shall have the same meaning as assigned in Pakistan
+Telecommunication Rules 2000;
+
+(r) [Class of Services" means all telecommunication services specified in Schedule E
+in addition to those services determined by the Authority from time to time}? and
+
+(s) "Voice service" means a telecommunication service that involves two-way live
+human voice in digital form or otherwise, over any public fixed switched network
+or between base stations or switches or nodes of any public mobile switched
+network;
+
+[“(0" Wi-Fi” means Wireless Fidelity. The technology corresponding to the IEEE
+802.11 standards for low power, indoor wireless data communication.
+
+“ (uy) "Wi-Fi Offloading” also known as Mobile traffic offloading is the use of
+
+complementary network technologies for delivering traffic originally targeted for
+cellular networks.
+
+“(y) "Wi-Fi node” means node that operate on Wi-Fi technology.
+
+“ (w) "Wi-Fi hot spot” is a Wi-Fi node that is attached to a fixed network and
+provides limited mobility access or fixed access"|'°
+
+(2) The words and expressions used but not defined in these [regulations]'' shall have the
+same meanings as assigned to them in the Act.
+
+PART-II
+LICENSING
+
+2: Open Licensing.- (/) The license or registration under these Regulations for the
+[Class of services|'* shall be open, non-discriminatory and non-exclusive; however the
+Authority for administrative purposes may fix time slots in a year for receiving and processing
+applications.
+
+(2) The decision of grant or refusal of license shall be communicated by the Authority
+within 07 working days of receiving of the application in the prescribed form complete in all
+respect or closing date of receiving applications, whichever is later.
+
+° Substituted vide page 122 of S.R.O 56(1)/2008 dated 16" January, 2008 [(r) Value Added Services" means all telecommunication
+services excluding the core telecommunication services of Access Providers as determined by the Authority from time to time,]
+
+10 Inserted vide page 1047 of S.R.O 287()/2016 dated 4" April, 2016
+
+11 Substituted vide page 122 of S.R.0 56(1)/2008 dated 16% January, 2008 [ rules]
+Substituted vide page 122 of S.R.0 56(1)/2008 dated 16" January, 2008 [ Value Added Services]
+3. Technology Neutral.- All Licenses and Registration Certificates issued under these
+Regulations shall be technology neutral.
+
+4. [Category of licensees. Under these regulations, the Authority may issue the
+following authorizations for "Class of Services "
+
+(a) Class License for voice services;
+
+(b) Class License for Data services; and
+
+(c) Registration Certificate for Registered Services.]'°
+
+5. Application for grant of license.- /(J) An application for the grant of a license or
+
+registered services to provide a class of services shall be made in the form set out in Schedule 'A'
+to these Regulations]'*
+
+(2) An application under sub-regulation (1) shall be made in original and shall be
+addressed to the Director General Licensing of the Authority.
+
+(3) An application under sub-rule (1) shall, where applicable, be accompanied by the
+documents and details of information set out in Schedule ‘4 ‘check list form’.
+
+(4) An application under [swb-regulation]'° (1) shall be accompanied by the payment
+of fees in the amount prescribed under these Regulations in Schedule ‘B’.
+
+(5) An Applicant shall have right to withdraw the application made under sub-
+regulation (1) at any time before grant of a license.
+
+6. Grant of license.- (1) The Authority may grant license or Registration Certificate
+to any applicant, who fulfills the open, transparent and non-discriminatory eligibility criteria
+given by the Authority from time to time.
+
+Q) The Authority shall consider all applications on merits and in determining
+whether or not to grant a license or registration certificate, the Authority shall take into account
+
+the following factors, namely:-
+(a) financial and economic viability of the applicant;
+
+(b) applicant's experience in telecommunications and relevant past history;
+
+(c) technical competence and experience of applicant's management and key
+members of staff and local participation in the business; and
+
+BSubstituted vide page 122 of S.R.O 56()/2008 dated 16th January, 2008 [4. Category of Licensees.—Under these Regulations, the
+Authority may issue following authorizations for Value Added Services:
+
+for Voice Value Added Services;
+v Data Value Added Services;
+
+gS -ertificate for registered Services]
+
+“Substituted vide page 122 of S.R.O 56(1)/2008 dated 16 January, 2008 [ (1) An application for the grant of license or Registration
+Services to provide Value Added Services shall be made in the form set out in Schedule ‘A’ to these Regulations]
+’Substituted/Replaced vide page 123 of S.R.O 56()/2008 dated 16" January, 2008 [ "sub-rule"]
+
+     
+  
+
+and
+
+ 
+(d) nature of the services proposed and the viability of the applicant's business plan
+including its contribution to the development of the telecommunications sector.
+
+(3) The Authority may reject an application; if it appears that the grant of the License or
+Registration Certificate shall threaten or potentially threaten national security.
+
+7. Procedure for grant of a License.- (1) On receipt of an application for grant of
+license or Registration Certificate, the Authority shall examine the application and suitability of
+grant of License or Registration Certificate.
+
+(2) The Authority shall not reject any application without giving a reasonable
+opportunity of being heard. In case the application is incomplete, the Authority may return the
+application without rejecting it or may require the applicant to make up the deficiency within
+given time.
+
+(3) Incase the Authority decides to reject the application, it shall give detailed reasons
+of rejection.
+
+8. Duration and renewal.- (/) Subject to the Act, a Class License shall be granted for
+a period of fifteen (15) years and Registration for a period of five (5) years, after the expiry of
+the initial term the license shall be renewed on terms and conditions consistent with the policy
+of the Federal Government and the Regulations in force at the relevant time.
+
+(2) [The Registration issued by the Authority shall not be renewable.
+
+Provided that a fresh application for Registration may be submitted to the Authority in
+
+accordance with regulation (6), three months prior to completion of the period of five (5)
+16
+
+years.|
+
+9. Scarce resource.- /(1)"All licensees shall be entitled to apply for scarce resources
+as per the provisions of the Act and applicable regulations, however the Access providers shall
+be given preference in allotment or allocation of scarce resources"|""
+
+(2) In case of allocation of scarce resource to the licensee, the Authority may impose
+non-discriminatory terms and conditions for utilization of the scarce resource in addition to the
+terms and conditions of the license.
+
+[[" (3) Industrial Scientific and Medical (ISM) bands comprising 2.4-2.5 GHz and 5.725-
+5.875 GHz may be used free of charge by CVAS Data and Local Loop on Non-
+Interference Basis (NIB) with following restrictions on power limits:
+
+‘6"Substituted vide page 123 of S.R.O 56(1)/2008 dated 16" January, 2008 [(2) The Registration issued by the Authority shall not be
+renewable. Upon completion of the period of five (5) years, a fresh application for Registration mav be submitted to the Authority in accordance with
+regulation (6)]
+
+i "Substitute ed vide page 123 of S.R.O 56()/2008 dated 16" January, 2008 [ (1) All Licensee excluding holders of Registration
+Certificate, shall be entitled to apply for scarce resources as per the provisions of the Act and applicable regulations, however
+the Access Providers shall be given preference in the allotment or allocation of scarce resources]
+
+ 
+
+ 
+a) Commercial/non-commercial (Public/Private) use for establishing Wi-Fi
+hot spot. Maximum EIRP of 30 dBm for each of the following bands:
+i. 2.4-2.5 GHz
+il. 5.725 — 5.875 GHz
+b) Backhauling of Traffic as referred in Clause 9(5), 9(6) and 9(7) and
+establishment of Point to Point Links.
+i. 2.4-2.5 GHz
+Maximum transmitter output power of 30 dBm with up to 36 dBm
+(30 dBm + 6 dBi) of EIRP.
+ii. 5.725-5.875 GHz.
+Maximum transmitter output power of 30dBm with up to 53 dBm (30 dBm
++ 23 dBi) of EIRP]'®.]'°
+
+['@ No license shall be required for indoor private (non-commercial) use.
+
+(5) Backhaul for public Wi-Fi hot spot shall be provided by a fixed network operator
+where such services are available.
+
+(6) Mobile Operators wishing to provide public fixed or limited mobility Wi-Fi services
+to their own customers shall do so under commercial arrangement with fixed
+network operator.
+
+(7) Mobile Licensee can undertake Wi-Fi offloading of mobile traffic to a Wi-Fi node
+linked to a mobile network or to a Wi-Fi hot spot linked to a fixed network.
+
+(8) Wi-Fi node linked to a mobile network shall be used to provide offloading of mobile
+traffic only from its own subscribers and from those that are roaming on its own
+network.
+
+(9) Details of outdoor links will be registered with FAB through PTA prior to
+commencement of service for record purposes.
+
+(10) PTA may inspect the site and obtain necessary information as and when required
+
+(11) Wi-Fi hotspot owners shall be responsible to ensure that their services are
+compliant to all relevant laws of the country specifically the national security
+requirements; and PTA's, other relevant Regulations, SOPs and Directives.
+
+(12) PTA may order closure of Wi-Fi hotspot(s), Wi-Fi Node(s) or link(s) either
+permanently or temporarily for security reasons, on violation of the rules,
+regulations, SoPs or PTA's directives and/or on the policy directives of the
+
+Government of Pakistan "7?
+
+'’ Inserted vide page 4055 of S.R.O.1114(1)/ 2008 dated 27" October, 2008.
+
+19 Substituted vide page 1047 of S.R.O 287(I)/2016 dated 4" April,2016[(3)Among the scarce resources, spectrum comprising of
+Industrial Scientific and Medical (ISM) bands i.e., 2473.5-2483 MHz,5725-5875 MHz and 24- 24.25GHz may be used free of
+charges by Class Data licensees with maximum permissible EIRP 100 mili-watts / 20 dBm per site and maximum permissible
+distance 100 meters per hop for provisioning of data communication services. Use of ISM bands for providing any
+telecommunication service to general public by a non-licensing or any licensee other than Class Data Licensees is illegal]
+
+” Inserted vide page 1048 of S.R.O 287(1)/2016 dated 4" April, 2016
+PART-II
+FEES
+
+10. Initial fees.- (1) The applicant shall pay the [xxx]!initial license fee and
+processing fee to the Authority in the prescribed manner with the application.
+
+(2) The Authority shall return the initial license fee of the unsuccessful applicant within
+seven (07) days of the rejection of the application.
+
+11. Annual Fee.- /(/) The Licensee shall pay the annual license fee to the Authority,
+calculated on the basis of percentage of the Licensee's annual gross revenue from Licensed
+Services for the most recently completed Financial Year minus Inter-operator payments from
+the effective date of the license [as decided by the Authority from time to time.
+
+Provided further that annual charges shall be payable for subsequent years.}*
+
+(2) In case the License is for personal use, the Licensee shall pay a flat annual fee of
+Rs.5000 per annum to the Authority.
+
+(3) There shall be no annual fee for Registered Services.
+
+(4) The Licensee shall pay the annual fee to the Authority within 120 days of the end
+of the Financial Year to which such fee relate and shall submit the audited financial statements
+in support of its calculations of annual fee and contributions payable. The Authority shall have
+the right to audit such statements at any time.
+
+(5) In addition to any other remedies available to the Authority, late payment fee shall
+incur an additional fee calculated at the rate of 2% per month on the outstanding amount, for
+every day or part thereof from the due date until paid.
+
+12. Other fees.- (/) All fees for the scarce resources including short codes shall be
+paid by the Licensee to the Authority as per applicable Regulations, auction benchmark or
+determination.
+
+(2) The Licensee shall also promptly pay to the Authority all fees required to be paid
+under the Act, Rules and Regulations.
+
+13. USF Contribution.- There shall be no condition in the licenses and registration
+certificates issued under these Regulations to make contribution to the Universal Service Fund.
+
+2! Omitted vide page 123 of S.R.O 56(1)/2008 dated 16 January, 2008 [ "Appropriate"]
+
+22 Re-worded vide page 123 of S.R.O 56())/2008 dated 16" January, 2008 [ (1) The licensee shall pay the annual license fee to the
+Authority, calculated on the basis of percentage of the Licensee's annual gross revenue from Licensed Services for the most
+recently completed Financial Year minus Inter-operator payments from the effective date of the license. Provided further that
+annual charges shall be pavable for subsequent years]
+14. R&D Contribution.- There shall be no condition in the licenses and registration
+certificates issued under these Regulations to make contribution to the Research and
+Development Fund.
+
+15. Payment Mode.- (J) All fees shall be paid by the Licensees by depositing in the
+designated accounts of the Authority or by any other mode prescribed by the Authority from
+time to time.
+
+(2) The Licensee shall also inform the Authority about the payment made through the
+Director Licensing.
+
+PART-IV
+RIGHTS AND OBLIGATIONS OF LICENSEES
+
+16. _ Rights granted to licensee.- (/) A licensee shall have the right to establish, maintain
+and operate a telecommunication system excluding its own Public Switched Network in the
+licensed territory and for the period stipulated by the Authority in the License, in accordance
+with the provisions of the Act [Ru/es/** and these Regulations.
+
+(2) A licensee shall have the right to provide Licensed class of [xxxx]*Services
+mentioned in Schedule 'E' in the licensed territory and for the period stipulated by the Authority
+in the License in accordance with the provisions of the Act and these Regulations.
+
+17. Conditions of license.- (1) A license granted under these Regulations shall be subject
+to the Act, Rules and Regulations framed thereunder and these Regulations.
+
+(2) A license granted in accordance with the provisions of the Act and these
+Regulations shall be subject to the restrictions on transfer of the license and on change of
+ownership of the licensee and such further restrictions as are contained in Rule 11 of the
+Pakistan Telecommunication Rules 2000.
+
+(3) A license granted in accordance with the provisions of the Act and these
+Regulations shall be subject to the conditions applying to all licensed services contained in
+[SCHEDULE-E}**to these Regulations or such other conditions as the Authority may establish
+from time to time not inconsistence with the provisions of these Regulations and the Act.
+
+[17(A) The licensee shall be obliged to commence any licensed services within one year
+fiom the date of grant of license:
+
+3 Inserted vide page 123 of S.R.O 56()/2008 dated 16" January, 2008
+2’ Omitted vide page 123 of S.R.O 56(l)/2008 dated 16 January, 2008 [ "Value Added"]
+5 Substituted vide page 123 of S.R.O 56 ()/2008 dated 16" January, 2008 [Schedule 'F']
+ 
+
+10
+
+Provided that licensees duly authorized to provide more than one licensed service in
+their license shall be required to obtain a commencement certificate for all class licensed
+services separately in accordance with sub-regulation A (ti) of regulation 17 as provided below.
+
+17(A) (i) The licensee shall not provide any licensed services, within a period as
+required in regulation 17 (A) above, to a customer, or accept any payment from a customer in
+respect of the Licensed Services to be provided by the licensee, unless a commencement
+certificate is issued for each licensed services by the Authority certifying that the licensee has
+established the required telecom system under the provision of the license and is able to provide
+licensed services.
+
+17 (A) (ii) The licensees shall give 30 days prior notice to the Authority of the date on
+which the licensee intends to commence providing any licensed services to customer. The
+licensee shall co-operate with the Authority in its scrutiny and investigation of its
+Telecommunication System and the Licensed Services in connection with the issuance of a
+commencement certificate.
+
+Provided that if the current licensees have commenced their licensed services without
+obtaining a commencement certificate are required to obtain the commencement certificate
+afresh for provision of licensed services within thirty (30) days from the date of gazette
+notification of these regulations:
+
+Provided further that if the current licensees have not yet commenced their licensed
+services they are required to obtain commencement certificate within six months (06) from the
+date of gazette notification of these regulations.
+
+17(A) (iii) A licensee may apply to the Authority for extension in the required date of
+commencement of services, only in exceptional circumstances:
+
+Provided that the application of the licensee for grant of extension in the date of
+commencement under these regulations may only be considered by the Authority if deemed
+appropriate, and the decision of the Authority shall be final and binding.
+
+17 (A) (iv) The Authority may prescribe its procedures / SOPs for issuance of
+commencement certificate in accordance with the nature/type of licensed services]*°
+
+18. Exception to license obligation.- (/) Licensee of Data Services and Registered
+Services shall be entitled to establish Call Center to serve their respective customers irrespective
+of the fact that their licenses are not for voice service.
+
+°6 Inserted vide page 897 of S.R.O 295()/2010 dated 3" Mav, 2010.
+11
+
+PART-V
+MISCELLANEOUS
+
+19. Addition of New Services.- (1) The Authority shall have the power to add new
+services to the classes of [xxxx]’’ services mentioned in Schedule 'E' and upon such addition the
+Licensee of that class of [xxxx]?* services shall be entitled to offer that service without any
+formal authorization.
+
+(2) In case a licensee wants to provide any service which although falls in the category
+its class license but does not find mention in Schedule 'E' it shall seek prior approval of the
+
+Authority before offering such service.
+
+20. Tariff Regulation.- The tariff of the Licensee shall not be regulated till it attains
+the status of SMP as described in the Pakistan Telecommunication Rules 2000.
+
+21. Interconnection.- (/) All Licensees having license under these Regulations shall
+have the right to request interconnection to all or any Access Provider on reasonable terms and
+conditions.
+
+(2) In case of refusal by an Access Provider the Licensee may invoke the jurisdiction
+of the Authority, which shall decide the matter after hearing the Parties.
+
+(3) The Interconnection between the Telecommunication System of the Licensee and
+the Telecommunication Systems of other Licensees and Access Providers shall be governed by
+the Pakistan Telecommunication Rules, 2000 and the Interconnection Guidelines issued by the
+Authority from time to time.
+
+22. Existing licensees.- All existing licensees excluding Access Providers and
+Infrastructure Licensees may request the Authority to convert their existing licenses free of cost
+to the comparable category of class license for the remaining period, if the initial fee earlier paid
+by them is more than the initial fee for the requested category.
+
+(2) In case already paid fee was less then the initial fee prescribed under these
+Regulations then the Licensee shall pay the difference as per the following formula:
+
+The initial fee already paid by the Licensee shall be divided into total number of years.
+The initial fee prescribed under these Regulations shall be divided into fifteen 15 years
+and per year amount already paid will be subtracted from the Initial fee prescribed under
+these regulation for each year. The Licensee shall pay the difference for the remaining
+years of his previous license.
+
+23. — Repeal.- Following Regulations are hereby repealed:
+
+2’ Omitted vide page 123 of S.R.O 56(i)/2008 dated 16" January, 2008 [ "Value Added]
+28 Omitted vide page 123 of S.R.O 56(i)/2008 dated 16" January, 2008 [ "Value Added]
+ 
+
+12
+
+a) Amateur Radio Regulations 2004;
+
+b) Audiotex Service Regulations 2004;
+
+c) Burglar Alarm Service Regulations 2004;
+
+d) Card Payphone service Regulations, 2004;
+
+e) Non-voice Communication Network Service Regulations, 2004;
+f) Registration of Satellite Service Providers Regulations 2004;
+
+g) Trunk Radio Services Regulations 2004; and
+
+h) Vehicle Tracking Service Regulations 2004.
+
+Schedule A
+[Forms for License and Registration for class of services|”?
+
+Application No (to be filled by PTA)
+
+ 
+
+[ [ | [| [ J J 1
+
+Application Form
+I,_—————_ certify that I am the authorized representative of M/s——————., hereinafter
+called 'The Company’, and is legally authorized to sign for and on behalf of The Company and
+that all the statements made are true and correct to the best of my knowledge.
+
+1. On behalf of the company I would like to apply for a <License/Registration for
+Class of [xxx]? service.
+
+2. [have completed all prerequisites.
+
+I understand that the submission of this proposal does not automatically qualify
+
+my company for award of a Class of [xxx]°! Service <license/ registration> by
+
+Pakistan Telecommunication Authority.
+
+Ww
+
+Full Name (give comma after every word)
+
+ 
+
+ 
+
+ 
+
+Postal address
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Identity card no.
+
+2° Substituted vide page 123 of S.R.O 56(1)/2008 dated 16" January,2008 [Forms for License & Registration of Value
+Added Services"]
+
+” Omitted vide page 123 of S.R.O 56(1)/2008 dated 16" January,2008 [" Value Added"]
+
+1 Omitted vide page 123 of S.R.O 56(1)/2008 dated 16" January,2008[" Value Added").
+13
+
+ 
+
+L
+
+PT] Toy - ]
+
+Telenhone (in Comnanv's name):
+
+Email:
+Signature:
+Name:
+
+TTT TT T= TT Position
+
+Fax:
+
+[APPLICANT PROFILE]**
+(To be submitted with the application form)
+
+1. Company details
+1.1 Name of company
+
+ 
+
+ 
+
+ 
+
+1.2 Postal address
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Telephone: Fax: Email:
+1.3 Registered office address
+
+Telephone: Fax: Email:
+2. Contact Information
+
+2.1 Name of contact person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2. Designation:
+
+23 Computerized National Identity Card number:
+
+ 
+
+. Fax:
+
+. Email
+
+ 
+
+Telephone:.
+
+Cell phone no.
+
+Passport no. (Foreigners only)
+
+82 Substituted vide page 124 of S.R.O 56(1)/2008 dated 16" January,2008 [At any time in future, if any of the above
+mentioned information changes, the applicant's official representative(s) mentioned above or any one of the shareholder
+director will be liable to submit the same to PTA licensing division.]
+ 
+
+14
+
+Application No.(to be filled by PTA)
+
+ 
+
+ 
+
+[CHECK LIST FORM
+(To Be Submitted With The Application)
+
+ 
+
+S.No
+
+Items
+
+Check (\) if
+attached
+
+#of Pages
+
+PTA use
+Only
+
+ 
+
+Category Form;
+
+ 
+
+wn ™
+
+Applicant(s) profile;
+
+ 
+
+Evaluation Fee; Submit proof of deposit
+
+ 
+
+SN
+
+Certificate of Incorporation (including Memorandum
+& Article of Association and Form- 29 duly certified by
+SECP)
+
+ 
+
+a. Attested Copies of Computerized National
+Identity Card for — Pakistani national
+shareholder directors.
+
+b. Attested copies of Passports of foreign
+
+nationals submitted through Ministry of
+
+Foreign Affairs after security clearances.
+
+ 
+
+Undertaking on duly notarized stamp paper for:
+
+a. That the Company or its Directors have never been
+declared insolvent by any court of law.
+
+b. b. That the Directors of the company have never
+been convicted by a court of law for major offences
+or unethical/ immoral turpitude (other than minor
+offences).
+
+c. That neither the applicant Company nor its
+shareholder directors are defaulter(s) of PTA.
+
+ 
+
+Bio-data of key management personnel
+
+ 
+
+Brief Description of the Applicant's Business Plan
+Including Bank statement in the name of the company,
+3 to 5 years business plan (projected balance sheet,
+profit and lost account, cash flow statement, project
+cost,)
+
+ 
+
+Network Plan
+
+ 
+
+ 
+
+70.
+
+ 
+
+Copy of proposed Service Level Agreements with the
+Access / Infrastructure Provider/ customers.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+15
+
+Note: On satisfactory completion of the above stated formalities by the applicant,
+PTA will issue the Class Value Added Service Licenses (CVAS) within 07 davs.
+
+A Defaulter of PTA can't apply for a new Registration or CVALS of any type. The
+shareholders of the defaulter company cannot have ownership of any amount in
+
+the new company applying for any telecom service}*
+
+8 Substituted vide page 124 of S.R.O 56())/2008 dated 16" January,2008[CHECK LIST FORM
+
+(TO BE SUBMITTED WITH THE APPLICATION)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S.No Items Check iw) if #of Pages PTA use
+attached Only
+I Category Form;see ‘CVALS cat (1.0)Form-B
+2 Applicant(s) profile; see ‘CVALS pf1(1.0)Form-C
+3; Evaluation Fee; see ‘CVALS fee (1.0)doc-E’ Submit proof of deposit
+4. Certificate of Incorporation (including Memorandum & Article of
+Association and Form- 29 duly certified by SECP)
+D. a. Attested Copies of Computerized National Identity Card
+for Pakistani national shareholder directors.
+b. Attested copies of Passports of foreign nationals
+submitted through Ministry of Foreign Affairs after security
+clearances.
+6. Undertaking on duly notarized stamp paper for:
+a. That the Company or its Directors have never been declared
+insolvent by any court of law.
+b. That the Directors of the company have never been convicted by a
+court of law for major offences or unethical/ immoral turpitude
+(other than minor offences).
+c. That neither the applicant Company nor its shareholder directors are
+defaulter(s) of PTA.
+7. Bio-data of kev management personnel
+8. Brief Description of the Applicant's Business Plan Including Bank
+statement in the name of the company, 3 to 5 years business plan
+(projected balance sheet, profit and lost account, cash flow statement,
+project cost.)
+9. Network Plan
+10. Copy of proposed Service Level Agreements with the Access /
+
+ 
+
+Infrastructure Provider/ customers.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: On satisfactory completion of the above stated formalities by the applicant, PTA will issue the Class
+Value Added Service Licenses (CVAS) within 07 days.
+
+A Defaulter of PTA can't apply for a new Registration or CVALS of any type. The shareholders of the defaulter company cannot
+
+have ownership of any amount in the new company applving for anv telecom service]
+
+ 
+16
+
+Application No. (to be filled by PTA)
+
+ 
+
+[ J | [| J J- 7 7
+
+Category Selection Form
+(Please fill items I through III below & submit with the application)
+
+I. Commercial 0 or Not-For-Prof it 0
+
+IL. Type of License or Registration (choose any one)
+
+Data Class [xxxx}4 License Service
+
+[Data rate: ANY]
+[Services: [Any number of service types]}*>, through PTA licensed operators, may
+
+be chosen. In future, relevant additions to the services may be made by the
+
+Authority from time to time
+
+Voice Class [xxxP° License Service
+[Voice only services]*’, through PTA licensed operators
+
+Class [xxx]’*Registered Service®?
+
+IIL. Province(s) selected*® (check as many as desired)
+
+Baluchistan Oo NWFP a
+
+Sindh a Punjab Qo
+Or
+
+Nationwide Q
+
+4 Omitted vide page 125 of S.R.O 56(1)/2008 dated 16 January.2008 [" Value Added"]
+
+> Vehicle Tracking, Data Service, Internet Service or as added by the Authority from time to time.
+
+© Omitted vide page 125 of S.R.O 56(1)/2008 dated 16" January,2008["Value Added"]
+
+*” Payphone and Premium Rate Services or any other related service, which may be added by the Authority from time
+to time.
+
+38 Omitted vide page 125 of S.R.O 56(1)/2008 dated 16" January,2008 ["Value Added"] Value Added
+
+*” Registered Services include: Video Conferencing; Voice Mail; SMS Aggregator; Content Service Provider; or any — other
+related service as added by the Authority from time to time.
+
+” Selection desired for licensed value added services only. All registrations are for nationwide services.
+
+ 
+17
+
+Schedule B
+
+License Fee Framework
+
+License Processing Fee (non-refundable): Rs. 5,500
+
+Initial License Fee
+
+Class License Commercial Use Own Use
+[CL]*per Province” Rs.100,000 Rs. 50,000
+[CL]*® (Nationwide) Rs.300,000 Rs.150,000
+
+Registration Processing Fee (non-refundable): Rs. 10,000
+
+Registration Registration Fee
+For 5 years only 10,000
+SCHEDULE E
+[Class of Services]
+1. Voice
+
+(a) Card Payphone Service
+(b) Premium Rate Service
+(c) [Trunk Radio]**
+
+2 Data
+(a) Internet Service
+(b) Data service
+(c) Vehicle tracking System
+
+3. Registered Services
+(a) Voice Mail
+(b) SMS Aggregator
+(c) Video Conferencing
+(d) Content Service Provider
+(ce) [Amateur Radio]*°
+
+4! Substituted vide page 126 of S.R.O 56(l)/2008 dated 16" January, 2008 ["CVALS"]
+
+* 50% less for Baluchistan.
+
+Substituted vide page 126 of S.R.O 56())/2008 dated 16" January, 2008 ["CVALS"]
+
+“ Substituted vide page 126 of S.R.O 56(1)/2008 dated 16" January, 2008 ["Value Added"]
+* Inserted vide page 127 of S.R.O 56())/2008 dated 16" January, 2008.
+
+Inserted vide page 127 of S.R.O 56(1)/2008 dated 16" January, 2008.
+18
+
+Schedule F/I
+Registration No.— Date————
+Registration Certificate of
+[Class of Registered Services\""
+
+The Pakistan Telecommunication Authority is pleased to register M/S <——— name———— > of
+<—_____ address > for providing Class [xxxx]** Registered service as
+mentioned in "Class [xxxx]*” Services Licensing and Registration Regulations 2007" to:
+
+a. Extend services to all, in a non-exclusive manner, free of all discriminations;
+
+b. Abstain from providing any telecom service without obtaining prior license;
+
+c. Promptly provide all information, as and when desired by the Authority, which helps it
+to quantify proliferation of the technologies or services whether technical, regulatory or
+financial in nature;
+
+2. This registration is valid for a maximum period of five (5) years from its last registration.
+[In case licensee wants to continue the licensed operation beyond five(5S) years, a fresh
+application for registration may be submitted to the Authority in accordance with
+
+regulation(6) three months prior to the completion of the expiry of the five years period.]°°
+3. M/S <———— name—————— > shall provide the Registered Services in accordance
+and in compliance with the laws of the Islamic Republic of Pakistan.
+4. M/S <—————  name-———_ > shall, in the course of provision of Registered
+
+Services, comply with the provisions of the Pakistan Telecommunication (Reorganization)
+Act 1996, Rules and Regulations framed thereunder and directions of the Authority, which
+may be issued from time to time.
+
+5. Where the provisions of this Registration Certificate are silent or ambiguous, on any issue
+irrespective of its nature, Authority's decision shall be final and binding.
+
+(for & on behalf of the Authority)
+
+< Applicants name > <_ Name of the DG >
+< Applicants title > Director General <WIn or Wls>
+<_ Applicants address > P.T.A. Headquarters
+
+” Substituted vide page 127 of S.R.O 56(1)/2008 dated 16" January, 2008 ["Class Value Added Registered Services"]
+
++ Omitted vide page 127 of S.R.O 56(1)/2008 dated 16" January, 2008 [Value Added:]
+
+#° Omitted vide page 127 of S.R.O 56(1)/2008 dated 16" January, 2008 [’Value Added!']
+
+” Substituted vide page 128 of S.R.O 56(1)/2008 dated 16" January, 2008 One (1) month prior notice to the Authority is required
+for renewal of this Registration.
+ 
+
+19
+
+Schedule F/2
+PAKISTAN TELECOMMUNICATION AUTHORITY
+
+PTA Headquarters Building, F-5/I Islamabad, Pakistan
+www.pta.gov.pk
+
+License No. < > Dated: < >
+
+LICENCE TO ESTABLISH, MAINTAIN AND OPERATE
+TYPE <Voice or Data> [Class License}*!
+
+In exercise of the powers conferred by section 5 of Pakistan Telecommunication
+(Reorganization) Act, 1996 (hereinafter called the "Act"), the Pakistan Telecommunication
+Authority (hereinafter called Authority), hereby, grants non-exclusive license to M/S <
+name> Address > (hereinafter called the "Licensee") to establish, maintain
+and operate [Class of services], as mentioned above, on terms and conditions[Annexed to this
+license;|> provisions of existing enactments, including rules and regulations made thereunder
+and amendments/modifications made thereto together with new enactment as may be considered
+expedient and necessary from time to time.
+
+This License shall come into force on the date of issuance and shall be valid for the
+period of fifteen years duration subject to payment of such fee(s) as the Authority may specify
+from time to time.
+
+This license may be renewed for another term(s) beyond fifteen years on thirty months prior
+written request of the licensee before expiry of the existing term of the license subject to the
+terms and conditions applicable at that time.
+
+(For and on behalf of the Authority)
+
+ 
+
+<_Applicants name >
+
+<_ Name of the DG >
+< Applicants title > Director General <WIn or WIs>
+< Applicants address > P.T.A. Headquarters, Islamabad
+
+5! Substituted vide page 128 of S.R.O 56()/2008 dated 16" January., 2008 ["Value Added Services"']
+% Substituted vide page 129 of S.R.O 56()/2008 dated 16" January., 2008 ["Value Added Services"]
+3 Substinuted vide page 129 of S.R.O 56(1)/2008 dated 16" January, 2008[contained in annexure-L.]
+
+   
+
