@@ -1,20 +1,28 @@
 # RTI data
 
-This is a repository of raw RTI requests, responses, appeals and the information I've received through them.
+This is a repository of RTI requests, responses, appeals and the information I've received through them.
 
-Personal information is redacted, and text has been scanned through OCR.
+Personal information is redacted, and text has been processed through OCR software where applicable.
 
 ## Requests
 
-Each request is marked by a unique ID.
+Each request is filed by a unique ID and has 3 types of files:
+
++ Request: All correspondence exchanged with the public information officer
++ Appeal: All correspondence with the Information Commission if an appeal was filed
++ Information: If information is received
 
 ### 9449
 
-PTA's Class Licensing and Registration Regulations, 2007 as amended up to 4 April 2016
+PTA's Class Licensing and Registration Regulations, 2007 as amended up to 4 April 2016.  
+
+**Status:** Information received
 
 ### 9449
 
 The Gazette of Pakistan, requested from the Department of Stationary and Forms.
+
+**Status:** Appeal successful, awaiting information
 
 ## Tools
 
